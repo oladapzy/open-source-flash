@@ -156,3 +156,5 @@ OpenFL can compile code in Haxe into SWF, which means someone knows how to hack 
 Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas and WebGL instead of Adobe's Stage 3D and use the [Apache FlexJS](http://flex.apache.org/) compiler to transpile it into JavaScript. This induces the following flow - migrating Flash based source code into the web.
 
 - [avmplus](https://github.com/adobe/avmplus) AVM2 source code (flash player AVM1(?)AVM2 source code)
+
+I will appreciate if there is a future update on flash if its going to be discontinue or not. I will appreciate the feedback(https://webdesignsuperior.com)
